@@ -1,0 +1,59 @@
+
+{
+  "zelda": [
+  	{
+  		"id": 1,
+  		"name": "Zelda",
+  		"image": "https://static.wikia.nocookie.net/nintendo/images/c/c2/HWAoC_Zelda_Artwork.png/revision/latest?cb=20200909021843&path-prefix=en",
+  		"likes": 0
+  	},
+  	{
+  		"id": 2,
+  		"name": "Link",
+  		"image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/35/WW_Link_3.png/revision/latest/scale-to-width-down/320?cb=20130913013026",
+  		"likes": 0
+  	},
+  	{
+  		"id": 3,
+  		"name": "Ganondorf",
+  		"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/44f24785-bc55-403f-9852-eb3e642975d6/de08eho-38d4fe13-0a31-4f14-95a5-3900ce1a4f41.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ0ZjI0Nzg1LWJjNTUtNDAzZi05ODUyLWViM2U2NDI5NzVkNlwvZGUwOGVoby0zOGQ0ZmUxMy0wYTMxLTRmMTQtOTVhNS0zOTAwY2UxYTRmNDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Laui9noCN2WO0-EtY2LQKlza7QkeMJ8Lw11jBa3NF9g",
+  		"likes": 0
+  	},
+  	{
+  		"id": 4,
+  		"name": "Impa",
+  		"image": "https://www.zeldadungeon.net/wp-content/uploads/2018/07/B5C0A61E-83B6-4AC7-8E59-5BE57C4BE8D5.jpeg",
+  		"likes": 0
+  	},
+  	{
+  		"id": 5,
+  		"name": "Lana",
+  		"image": "https://images.gamebanana.com/img/ss/mods/5a6033f4c8f4c.jpg",
+  		"likes": 0
+  	},
+  	{
+  		"id": 6,
+  		"name": "aghinta",
+      "image": "https://www.zeldadungeon.net/wp-content/uploads/2014/07/hyrule_warriors_agitha1.jpg",
+  		"likes": 0
+  	},
+  	{
+  		"id": 7,
+  		"name": "Skull Kid",
+  		"image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/84/MM_Skull_Kid_Artwork.png/revision/latest?cb=20141106151815",
+  		"likes": 0
+  	},
+  	{
+  		"id": 8,
+  		"name": "Tael",
+  		"image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/46/MM3D_Tael_Artwork.png/revision/latest?cb=20150103011303",
+  		"likes": 0
+  	},
+  	{
+  		"id": 9,
+  		"name": "Midna",
+  		"image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b6/TPHD_Midna_Artwork.png/revision/latest/scale-to-width-down/320?cb=20160130084342",
+  		"likes": 0
+  	}
+  ]
+}

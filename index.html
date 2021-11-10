@@ -1,0 +1,32 @@
+<html lang="en">
+  	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<!-- defer => JS won't execute until HTML page completely loads  -->
+		<script src="index.js" defer></script>
+		<link rel="stylesheet" href="styles.css" />
+		<title>Zelda - Starter</title>
+  	</head>
+
+  	<body>
+		    <div id="header">
+		        <h1>Zelda Cards</h1>
+		    </div>
+
+		    <div id="card-form-container">
+		        <form id="card-form">
+			           <label class="form-label"><strong>Name: </strong></label>
+			           <input type="text" id="name-input" />
+
+			<!-- <label class="form-label"><strong>Image: </strong></label>
+			<input type="text" id="img-input" /> -->
+
+			           <input type="submit" value="Submit" />
+            </form>
+	      </div>
+
+	      <div id="card-container"></div>
+    </body>
+</html>
